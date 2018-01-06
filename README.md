@@ -1,5 +1,8 @@
 # Breif
-I am Feng Li(李丰), currently a PhD student in IUPUI. I work with my advisor [Dr. Fengguang Song](cs.iupui.edu/~fgsong/)  in areas of Distributed Systems and High Performance Computing. 
+I am Feng Li(李丰), currently a PhD student in IUPUI. I work with my advisor [Dr. Fengguang Song](https://cs.iupui.edu/~fgsong/)  in areas of Distributed Systems and High Performance Computing. 
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](images/myself.jpeg)
+
 
 # Education
 * [2015-~] Indiana University-Purdue University, Indianapolis, IN
@@ -57,8 +60,9 @@ My work mainly includes how to utilize the storage of SSD and design the new dat
 ([click me](http://ieeexplore.ieee.org/document/7091937/))
 
 # For my spare time
-I like hiking, jogging. I have travelled alone to many great places in China, I hope I can do that again in the US!
-Recently I am learning swimming, but in very entry level.
+I like hiking, jogging. I have travelled to many great places in China, and I am planning to visit more places in the US!
+I started to learn swimming since 2017 fall, not very good at it but really enjoy it a lot as a way for exercise and relax.
+Recenty I am learning guitar with one friend, we are so both excited about what we can achieve in the year of 2018.
 
 
 # Contact Me
