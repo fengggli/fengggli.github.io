@@ -1,8 +1,5 @@
 # Breif
-I am Feng Li(李丰), currently a PhD student in IUPUI. I work with my advisor [Dr. Fengguang Song](https://cs.iupui.edu/~fgsong/)  in areas of Distributed Systems and High Performance Computing. 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-![](images/myself.jpeg)
-
+I am Feng Li(李丰), currently a PhD student Purdue University, Indianapolis (IUPUI campus). I work with my advisor [Dr. Fengguang Song](https://cs.iupui.edu/~fgsong/)  in areas of Distributed Systems and High Performance Computing. 
 
 # Education
 * [2015-~] Indiana University-Purdue University, Indianapolis, IN
@@ -11,6 +8,17 @@ I am Feng Li(李丰), currently a PhD student in IUPUI. I work with my advisor [
 * [2011~2015] Huazhong University of Science & Technology
 
   Bachelor in Computer Science and Technology
+
+# Selected Publication
+
+* Yuankun Fu, **Feng Li**, "Fengguang Song, Performance Analysis and Optimization of In-situ Integration of Simulation with Data Analysis: Zipping Applications Up". To appear in *Proceedings of the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing* (**HPDC**). ACM, 2018}.
+ 
+* **Li, Feng**, and Fengguang Song. "A Real-Time Machine Learning and Visualization Framework for Scientific Workflows." *Proceedings of the Practice and Experience in Advanced Research Computing 2017 on Sustainability, Success and Impact* (**PEARC**). ACM, 2017. (**Best Student Paper Award**) 
+([click me](http://dl.acm.org/citation.cfm?id=3093380))
+* Xiao Bian, **Feng Li**, Xia Ning, Kernelized Sparse Self-Representation for Clustering and Recommendation. In *SIAM International Conference on Data Mining* (**SDM**), 2016. 
+([click me](http://epubs.siam.org/doi/abs/10.1137/1.9781611974348.2))
+* Luo, Dan, Jiguang Wan, Yifeng Zhu, Nannan Zhao, **Feng Li**, and Changsheng Xie, Design and Implementation of a Hybrid Shingled Write Disk System. In *IEEE Transactions on Parallel and Distributed Systems* (**TPDPS**), 2015.
+([click me](http://ieeexplore.ieee.org/document/7091937/))
 
 # Experience
 ## IBM Research, Almaden 
@@ -50,14 +58,6 @@ My work mainly includes how to utilize the storage of SSD and design the new dat
 * reviewed related patents searched from USPTO, analyzed recent technology (eg.Page Placement in hybrid PRAM and DRAM Main Memory), then made my suggestion for the project. 
 
 
-# Selected Publication
-
-* Li, Feng, and Fengguang Song. "A Real-Time Machine Learning and Visualization Framework for Scientific Workflows." Proceedings of the Practice and Experience in Advanced Research Computing 2017 on Sustainability, Success and Impact. ACM, 2017. (**Best Student Paper Award**) 
-([click me](http://dl.acm.org/citation.cfm?id=3093380))
-* Xiao Bian, Feng Li, Xia Ning, Kernelized Sparse Self-Representation for Clustering and Recommendation. In SIAM International Conference on Data Mining, 2016. 
-([click me](http://epubs.siam.org/doi/abs/10.1137/1.9781611974348.2))
-* Luo, Dan, Jiguang Wan, Yifeng Zhu, Nannan Zhao, Feng Li, and Changsheng Xie, Design and Implementation of a Hybrid Shingled Write Disk System. In IEEE Transactions on Parallel and Distributed Systems, 2015.
-([click me](http://ieeexplore.ieee.org/document/7091937/))
 
 # For my spare time
 I like hiking, jogging. I have travelled to many great places in China, and I am planning to visit more places in the US!
