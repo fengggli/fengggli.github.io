@@ -15,9 +15,10 @@ before_deploy: touch build/html/.nojekyll
 
 deploy:
   provider: pages
+  target-branch: master
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable in travis portal
   keep-history: true
   local-dir: build/html
   on:
-    branch: master  # updates from this branch will trigger deploy
+    branch: source  # updates from this branch will trigger deploy
