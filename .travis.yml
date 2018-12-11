@@ -1,0 +1,23 @@
+## from here: https://medium.com/akeneo-labs/documentation-on-steroids-with-sphinx-github-travis-ci-and-platform-sh-89218513d136
+# https://gist.github.com/brenns10/f48e1021e8befd2221a2
+# https://docs.travis-ci.com/user/deployment/pages/#further-configuration
+
+language: python
+python:
+    - "3.6"
+
+sudo: false
+
+install: "pip install sphinx sphinx_rtd_theme sphinxcontrib-bibtex"
+script: make html 
+
+before_deploy: touch build/html/.nojekyll
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable in travis portal
+  keep-history: true
+  local-dir: build/html
+  on:
+    branch: master  # updates from this branch will trigger deploy

@@ -88,7 +88,7 @@ html_theme_options = {
     "github_user": "fengggli",
     "github_repo": "fengggli.github.io",
     "fixed_sidebar": True,
-    "logo":"/imgs/self-img.jpeg",
+    "logo":"imgs/self-img.jpg",
     "logo_name":"Feng Li"
 }
 
