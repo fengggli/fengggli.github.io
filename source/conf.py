@@ -88,8 +88,9 @@ html_theme_options = {
     "github_user": "fengggli",
     "github_repo": "fengggli.github.io",
     "fixed_sidebar": True,
-    "logo":"imgs/self-img.jpg",
-    "logo_name":"Feng Li"
+    "logo":"imgs/self-img-cropped.jpg",
+    "logo_name":"Feng Li",
+    "link":"#FF0000",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,

@@ -5,10 +5,12 @@
 * switch from jekyll to sphinx
 * reorganize source files
 * add autobuild
-
-## TODO
 * add pdf files to static
 * bibtex
+
+## TODO
+* add 2018 internship
+* add fluid paper, add ccpe paper
 * email
 * links to :
 	1. [Linkedin](https://www.linkedin.com/in/feng-li-30aa7911b/) 
