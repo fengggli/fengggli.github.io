@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'fengggli-page'
+project = 'Feng Li'
 copyright = '2018, Feng Li'
 author = 'Feng Li'
 
@@ -83,6 +83,14 @@ html_theme = 'alabaster'
 # documentation.
 #
 # html_theme_options = {}
+html_theme_options = {
+    "description": "a personal page",
+    "github_user": "fengggli",
+    "github_repo": "fengggli.github.io",
+    "fixed_sidebar": True,
+    "logo":"/imgs/self-img.jpeg",
+    "logo_name":"Feng Li"
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -97,7 +105,14 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-# html_sidebars = {}
+html_sidebars = {
+    "**": [
+        "about.html",
+	"navigation.html",
+        "relations.html",
+        "searchbox.html",
+    ]
+}
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
