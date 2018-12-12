@@ -39,8 +39,6 @@ Working on how to add SSD to Ceph(a distributed file system) as cache to improve
 
 My work mainly includes how to utilize the storage of SSD and design the new data caching algorithm.
 
-## Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology,  Wuhan, China
-
 **Sep 2014 ~ Feb 2015, undergraduate research internship**
 
 * worked as a key member in a collaborative project with Huawei Company, China. Our task is to design metadata management algorithm for MRAM-based file systems. a patent is under process, and my work includes:
