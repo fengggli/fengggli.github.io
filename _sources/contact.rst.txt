@@ -5,6 +5,9 @@ Contact
 
 Contact me by:
 
-* Email to fengggli at purdue dot edu
+* Email to
 
-* visit my lab at: WK300 at IUPUI.
+  * li2251 at purdue dot edu, or
+  * fengggli at yahoo dot com
+
+* Visit my lab at: WK300 at IUPUI.
