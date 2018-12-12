@@ -182,7 +182,7 @@ div.sphinxsidebar h3.donation {
 /* -- body styles ----------------------------------------------------------- */
 
 a {
-    color: #FF0000;
+    color: #D2691E;
     text-decoration: underline;
 }
 
@@ -467,7 +467,7 @@ tt.xref, code.xref, a tt {
 
 a.reference {
     text-decoration: none;
-    border-bottom: 1px dotted #FF0000;
+    border-bottom: 1px dotted #D2691E;
 }
 
 /* Don't put an underline on images */
@@ -483,7 +483,7 @@ a.footnote-reference {
     text-decoration: none;
     font-size: 0.7em;
     vertical-align: top;
-    border-bottom: 1px dotted #FF0000;
+    border-bottom: 1px dotted #D2691E;
 }
 
 a.footnote-reference:hover {

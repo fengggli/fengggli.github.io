@@ -1,37 +1,53 @@
 .. _experience:
 
-Research Experience
-====================
+Research Projects
+=================
 
+CIS at IUPUI
+-------------
 
-IUPUI
----------
+**Nov 2017~  Mar 2018, memory-aware LBM**
+
+Prototype and optimize a memory-aware Lattice-Boltzmann Method (LBM, a computational fluid dynamics approach to simulating complex fluid flows), which can enhance data reuse across multiple time steps.
+
+* A :ref:`paper <bib-fu2018lbm>` was accepted by SBAC-PAD'18.
+
+**April 2017~ Nov 2017, performance analysis of in-situ methods in HPC**
+
+In-depth performance evaluation of various high-performance transport methods (ADIOS, flexpath, DataSpaces, Decaf, DIMEs) in multiple HPC systems.
+
+* A :ref:`paper <bib-fu2018zipper>` was accepted by HPDC'18.
 
 **Aug 2016 ~ Mar 2017, research project**
 
 Working on s software framework for scientific workflows where RDMA technique is used to couple numerical simulation, data analysis and real-time visualization application together. 
 
 * A highly distributed and optimized anomaly detection method is used to detect vortex and other special patterns from turbulence flows. 
-* Paper was accepted by PEARC17.
+* A :ref:`paper <bib-li2017mlworkflow>` was accepted by PEARC'17.
 
 **Aug 2015 ~ Apr 2016, research project**
 
 Working on a kernelized sparse self-representation model(KSSR) and a novel Kernelized Fast Iterative Soft-Thresholding Algorithm(K-FISTA), to recover the underlying nonlinear structure among data.
 
 * My work mainly includes the implementation, evaluation of the KSSR model and K-FISTA algorithm.
-* The paper was accepted in SDM 2016.
+* A :ref:`paper <bib-bian2016kfista>`  was accepted in SDM'16.
 
-IBM Research, Almaden
------------------------
+Storage system group at IBM Research, Almaden
+----------------------------------------------
 
-**May 2017~ Aug 2017, research project**
+**May 2018~ Aug 2018, research internship**
 
-Working on persistent memory management on NVMe devices. A "collaborative paging" service is designed for extended memory mode where faults are handled in kernel space while I/O happens in user space. DPDK/SPDK tools are used to enable fast access via user space.
+Working on a high-performance key-value store, which uses NVMe SSD as data storage and keeps critical metadata in the persistent memory (pmem).
+By utilizing the advantages of persistent memory, the access to metadata such as block allocation and key-value mappings can be both hardened and fast.
 
+**May 2017~ Aug 2017, research internship**
 
+Working on persistent memory management on NVMe devices. A "collaborative paging" service is designed for extended memory mode. Paging service is lifted to userspace, to avoid expensive context switches and lengthy I/O stacks in legacy kernel designs . DPDK/SPDK tools are used to enable fast access via user space.
 
-Wuhan National Laboratory for Optoelectronics
----------------------------------------------
+* A :ref:`paper <bib-li2019copager>`  is accepted in HP3C'19.
+
+Wuhan National Laboratory for Optoelectronics, HUST, China
+----------------------------------------------------------
 
 **Feb 2015 ~ June 2015, undergraduate thesis**
 
@@ -41,7 +57,8 @@ My work mainly includes how to utilize the storage of SSD and design the new dat
 
 **Sep 2014 ~ Feb 2015, undergraduate research internship**
 
-* worked as a key member in a collaborative project with Huawei Company, China. Our task is to design metadata management algorithm for MRAM-based file systems. a patent is under process, and my work includes:
+Worked as a key member in a collaborative project with Huawei Company, China. Our task is to design metadata management algorithm for MRAM-based file systems. a patent is under process, and my work includes:
+
 * changed the original metadata access pattern, optimized the identification of performance-critical data and page replacement policy. 
 * read papers and wrote reviews about how MRAM( or other NVRAM) can be used in different methods to enhance system performance and or reduce energy consumption.
 * reviewed related patents searched from USPTO, analyzed recent technology (eg.Page Placement in hybrid PRAM and DRAM Main Memory), then made my suggestion for the project. 
