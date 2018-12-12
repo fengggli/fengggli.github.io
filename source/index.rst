@@ -8,7 +8,7 @@ Welcome to Feng Li's page!
 
 .. class::center
 
-I am Feng Li(李丰), currently a PhD student Purdue University, Indianapolis (IUPUI campus). I work with my advisor [Dr. Fengguang Song](https://cs.iupui.edu/~fgsong/)  in areas of Distributed Systems and High Performance Computing. 
+I am Feng Li(李丰), currently a PhD student Purdue University, Indianapolis (IUPUI campus). I work with my advisor `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing. 
 
 
 .. toctree::
