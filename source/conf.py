@@ -87,6 +87,7 @@ html_theme_options = {
     "description": "a personal page",
     "github_user": "fengggli",
     "github_repo": "fengggli.github.io",
+    "github_button": False,
     "fixed_sidebar": True,
     "logo":"imgs/self-img-cropped.jpg",
     "logo_name":"Feng Li",
