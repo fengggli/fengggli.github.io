@@ -1,7 +1,13 @@
 @inproceedings{fu2018lbm,
-  title={Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore System},
-  author={Bian, Xiao and Li, Feng and Ning, Xia},
-  booktitle={Proceedings of 30th International Symposium on Computer Architecture and High Performance Computing},
+  author={Y. {Fu} and F. {Li} and F. {Song} and L. {Zhu}},
+  booktitle={2018 30th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)},
+  title={Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems},
   year={2018},
-  organization={IEEE}
+  volume={},
+  number={},
+  pages={97-106},
+  keywords={Lattice Boltzmann methods;Heuristic algorithms;Bandwidth;Computer architecture;Mathematical model;Boundary conditions;Scalability;Lattice Boltzmann method;Memory aware parallel algorithms;Multicore systems},
+  doi={10.1109/CAHPC.2018.8645909},
+  ISSN={1550-6533},
+  month={Sep.},
 }
