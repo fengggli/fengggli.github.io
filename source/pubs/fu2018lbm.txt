@@ -1,5 +1,5 @@
 @inproceedings{fu2018lbm,
-  author={Y. {Fu} and F. {Li} and F. {Song} and L. {Zhu}},
+  author={Fu, Yuankun and Li, Feng and Song, Fengguang and Zhu, Luoding},
   booktitle={2018 30th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)},
   title={Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems},
   year={2018},
