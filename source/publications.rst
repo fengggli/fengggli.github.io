@@ -10,7 +10,7 @@ Publications
 
 .. _bib-fu2018lbm:
 
-* Yuankun Fu, **Feng Li**, Fengguang Song, Luoding Zhu, Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems, *Proceedings of	30th International Symposium on Computer Architecture and High Performance Computing* (SBAC-PAD'18), Lyon, France. 2018.
+* Yuankun Fu, **Feng Li**, Fengguang Song, Luoding Zhu, Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems, *Proceedings of	30th International Symposium on Computer Architecture and High Performance Computing* (**SBAC-PAD'18**), Lyon, France. 2018.
   :download:`pdf </pubs/fu2018lbm.pdf>`,
   :download:`bibtex </pubs/fu2018lbm.txt>`
 

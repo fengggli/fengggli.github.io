@@ -9,9 +9,9 @@ python:
 sudo: false
 
 install: "pip install sphinx sphinx_rtd_theme sphinxcontrib-bibtex"
-script: make html 
+script: make singlehtml 
 
-before_deploy: touch build/html/.nojekyll
+before_deploy: touch build/singlehtml/.nojekyll
 
 deploy:
   provider: pages
@@ -19,6 +19,6 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable in travis portal
   keep-history: true
-  local-dir: build/html
+  local-dir: build/singlehtml
   on:
     branch: source  # updates from this branch will trigger deploy
