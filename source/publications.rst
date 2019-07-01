@@ -20,7 +20,7 @@ Publications
 
 .. _bib-fu2018zipper:
 
-* Yuankun Fu, **Feng Li**, "Fengguang Song, Performance Analysis and Optimization of In-situ Integration of Simulation with Data Analysis: Zipping Applications Up". *Proceedings of the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**). ACM, 2018.
+* Yuankun Fu, **Feng Li**, Fengguang Song, "Performance Analysis and Optimization of In-situ Integration of Simulation with Data Analysis: Zipping Applications Up". *Proceedings of the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing* (**HPDC'18**). ACM, 2018.
   :download:`pdf </pubs/fu2018zipper.pdf>`,
   :download:`bibtex </pubs/fu2018zipper.txt>`
  
