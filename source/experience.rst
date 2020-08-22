@@ -63,4 +63,14 @@ Worked as a key member in a collaborative project with Huawei Company, China. Ou
 * read papers and wrote reviews about how MRAM( or other NVRAM) can be used in different methods to enhance system performance and or reduce energy consumption.
 * reviewed related patents searched from USPTO, analyzed recent technology (eg.Page Placement in hybrid PRAM and DRAM Main Memory), then made my suggestion for the project. 
 
+Tools
+=================
 
+I use those tools intensively in my research workflow:
+
+1. Programming languages (C/C++/Java/Scala/Python)
+2. Performance analysis tools (Intel Vtune, Linux Perf, TAU)
+3. Big Data/Deep learning frames (Tensorflow/Pytorch/Apache Spark) 
+4. Storage related: redis, spdk, dpdk, pmdk, fuse, fio
+5. Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker)
+6. CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)
