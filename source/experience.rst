@@ -6,13 +6,20 @@ Research Projects
 Computer Science Department at IUPUI
 -------------------------------------
 
-**Jan 2019~ , Architucture-aware Neural Network**
+**Jan 20 ~ Now, cross-environment workflow management** 
+
+* Abstract/optimize in-situ workflows on heterogeneous computing environments.
+
+* Design/test/improve the 'on-demand' HPC/Cloud acceleration feature for `Cyberwater project <https://www.cuahsi.org/projects/cyberwater/>`_ -- a community-driven, multi-institutional earth-science project.
+
+
+**Jan 2019~ Dec 2019, Architecture-aware Neural Network**
 
 Optimize Neural Networks from the system prospective:
 
 * Co-locate data in deep/heterogeneous memory hierarchy, so that communication overhead between different components can be minimized.
 * Intelligent scheduling algorithm for computation kernels to enable efficient and large-scale parallelism in modern SIMD and NUMA architectures.
-* Work in progress.
+* `github repo <https://fengggli.github.io/gpu-computing-materials/>`_.
 
 **Nov 2017~  Mar 2018, Memory-aware Lattice-Boltzmann Method**
 
@@ -79,7 +86,7 @@ I use those tools intensively in my research workflow:
 
 1. Programming languages (C/C++/Java/Scala/Python)
 2. Performance analysis tools (Intel Vtune, Linux Perf, TAU)
-3. Big Data/Deep learning frames (Tensorflow/Pytorch/Apache Spark) 
+3. Big Data/Deep learning frameworks (Tensorflow/Pytorch/Apache Spark) 
 4. Storage related: redis, spdk, dpdk, pmdk, fuse, fio
-5. Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker)
+5. Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker, k8s)
 6. CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)
