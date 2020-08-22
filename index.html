@@ -1,17 +1,18 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Feng Li documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <script type="text/javascript" src="_static/language_data.js"></script>
+    <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/language_data.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
    
@@ -26,7 +27,7 @@
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
 <p class="logo">
-  <a href="index.html#document-index">
+  <a href="#">
     <img class="logo" src="_static/imgs/self-img-cropped.jpg" alt="Logo"/>
     
   </a>
@@ -47,6 +48,7 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="index.html#document-education">Education</a></li>
 <li class="toctree-l1"><a class="reference internal" href="index.html#document-experience">Research Projects</a></li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#tools">Tools</a></li>
 <li class="toctree-l1"><a class="reference internal" href="index.html#document-publications">Publications</a></li>
 <li class="toctree-l1"><a class="reference internal" href="index.html#document-misc">Others</a></li>
 </ul>
@@ -54,7 +56,7 @@
 <div class="relations">
 <h3>Related Topics</h3>
 <ul>
-  <li><a href="index.html#document-index">Documentation overview</a><ul>
+  <li><a href="#">Documentation overview</a><ul>
   </ul></li>
 </ul>
 </div>
@@ -71,7 +73,7 @@
 <p>I am Feng Li, currently a PhD student Purdue University, Indianapolis (IUPUI campus). I work with my advisor <a class="reference external" href="https://cs.iupui.edu/~fgsong/">Dr. Fengguang Song</a> in areas of Distributed Systems and High Performance Computing.</p>
 <p><strong>Contact Me</strong></p>
 <p>You can reach me through   <em>lifen at iupui dot edu</em> or  <em>li2251 at purdue dot edu</em>.</p>
-<p>My lab is located at: 719 Indiana Ave WK300, Indianapolis, IN 46222.</p>
+<p>My lab is located at: 719 Indiana Ave WK300, Indianapolis, IN 46202.</p>
 <div class="toctree-wrapper compound">
 <span id="document-education"></span><div class="section" id="education">
 <span id="id1"></span><h2>Education<a class="headerlink" href="#education" title="Permalink to this headline">¶</a></h2>
@@ -88,34 +90,39 @@
 <span id="experience"></span><h2>Research Projects<a class="headerlink" href="#research-projects" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="computer-science-department-at-iupui">
 <h3>Computer Science Department at IUPUI<a class="headerlink" href="#computer-science-department-at-iupui" title="Permalink to this headline">¶</a></h3>
-<p><strong>Jan 2019~ , Architucture-aware Neural Network</strong></p>
+<p><strong>Jan 20 ~ Now, cross-environment workflow management</strong></p>
+<ul class="simple">
+<li><p>Abstract/optimize in-situ workflows on heterogeneous computing environments.</p></li>
+<li><p>Design/test/improve the ‘on-demand’ HPC/Cloud acceleration feature for <a class="reference external" href="https://www.cuahsi.org/projects/cyberwater/">Cyberwater project</a> – a community-driven, multi-institutional earth-science project.</p></li>
+</ul>
+<p><strong>Jan 2019~ Dec 2019, Architecture-aware Neural Network</strong></p>
 <p>Optimize Neural Networks from the system prospective:</p>
 <ul class="simple">
 <li><p>Co-locate data in deep/heterogeneous memory hierarchy, so that communication overhead between different components can be minimized.</p></li>
 <li><p>Intelligent scheduling algorithm for computation kernels to enable efficient and large-scale parallelism in modern SIMD and NUMA architectures.</p></li>
-<li><p>Work in progress.</p></li>
+<li><p><a class="reference external" href="https://fengggli.github.io/gpu-computing-materials/">github repo</a>.</p></li>
 </ul>
 <p><strong>Nov 2017~  Mar 2018, Memory-aware Lattice-Boltzmann Method</strong></p>
 <p>Prototype and optimize a memory-aware Lattice-Boltzmann Method (LBM, a computational fluid dynamics approach to simulating complex fluid flows), which can enhance data reuse across multiple time steps.</p>
 <ul class="simple">
-<li><p>A <a class="reference internal" href="index.html#bib-fu2018lbm"><span class="std std-ref">paper</span></a> was accepted by SBAC-PAD‘18.</p></li>
+<li><p>A <a class="reference internal" href="index.html#bib-fu2018lbm"><span class="std std-ref">paper</span></a> was accepted by SBAC-PAD’18.</p></li>
 </ul>
 <p><strong>April 2017~ Nov 2017, Performance Analysis of In-situ Methods in HPC</strong></p>
 <p>In-depth performance evaluation of various high-performance transport methods (ADIOS, flexpath, DataSpaces, Decaf, DIMEs) in multiple HPC systems.</p>
 <ul class="simple">
-<li><p>A <a class="reference internal" href="index.html#bib-fu2018zipper"><span class="std std-ref">paper</span></a> was accepted by HPDC‘18.</p></li>
+<li><p>A <a class="reference internal" href="index.html#bib-fu2018zipper"><span class="std std-ref">paper</span></a> was accepted by HPDC’18.</p></li>
 </ul>
 <p><strong>Aug 2016 ~ Mar 2017, Machine Learning Workflow in HPC</strong></p>
 <p>Working on s software framework for scientific workflows where RDMA technique is used to couple numerical simulation, data analysis and real-time visualization application together.</p>
 <ul class="simple">
 <li><p>A distributed and optimized anomaly detection method is used to detect vortex and other special patterns from turbulence flows.</p></li>
-<li><p>A <a class="reference internal" href="index.html#bib-li2017mlworkflow"><span class="std std-ref">paper</span></a> was accepted by PEARC‘17.</p></li>
+<li><p>A <a class="reference internal" href="index.html#bib-li2017mlworkflow"><span class="std std-ref">paper</span></a> was accepted by PEARC’17.</p></li>
 </ul>
 <p><strong>Aug 2015 ~ Apr 2016, KSSR</strong></p>
 <p>Working on a kernelized sparse self-representation model(KSSR) and a novel Kernelized Fast Iterative Soft-Thresholding Algorithm(K-FISTA), to recover the underlying nonlinear structure among data.</p>
 <ul class="simple">
 <li><p>My work mainly includes the implementation, evaluation of the KSSR model and K-FISTA algorithm.</p></li>
-<li><p>A <a class="reference internal" href="index.html#bib-bian2016kfista"><span class="std std-ref">paper</span></a>  was accepted in SDM‘16.</p></li>
+<li><p>A <a class="reference internal" href="index.html#bib-bian2016kfista"><span class="std std-ref">paper</span></a>  was accepted in SDM’16.</p></li>
 </ul>
 </div>
 <div class="section" id="storage-system-group-at-ibm-research-almaden">
@@ -126,40 +133,52 @@ By utilizing the advantages of persistent memory, the access to metadata such as
 <p><strong>May 2017~ Aug 2017, research internship</strong></p>
 <p>Working on persistent memory management on NVMe devices. A “collaborative paging” service is designed for extended memory mode. Paging service is lifted to userspace, to avoid expensive context switches and lengthy I/O stacks in legacy kernel designs . DPDK/SPDK tools are used to enable fast access via user space.</p>
 <ul class="simple">
-<li><p>A <a class="reference internal" href="index.html#bib-li2019copager"><span class="std std-ref">paper</span></a>  is accepted in HP3C‘19.</p></li>
+<li><p>A <a class="reference internal" href="index.html#bib-li2019copager"><span class="std std-ref">paper</span></a>  is accepted in HP3C’19.</p></li>
 </ul>
 </div>
+</div>
+<div class="section" id="tools">
+<h2>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h2>
+<p>I use those tools intensively in my research workflow:</p>
+<ol class="arabic simple">
+<li><p>Programming languages (C/C++/Java/Scala/Python)</p></li>
+<li><p>Performance analysis tools (Intel Vtune, Linux Perf, TAU)</p></li>
+<li><p>Big Data/Deep learning frameworks (Tensorflow/Pytorch/Apache Spark)</p></li>
+<li><p>Storage related: redis, spdk, dpdk, pmdk, fuse, fio</p></li>
+<li><p>Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker, k8s)</p></li>
+<li><p>CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)</p></li>
+</ol>
 </div>
 <span id="document-publications"></span><div class="section" id="publications">
 <span id="publication"></span><h2>Publications<a class="headerlink" href="#publications" title="Permalink to this headline">¶</a></h2>
 <ul class="simple" id="bib-li2019copager">
-<li><p><strong>Feng Li</strong>, Daniel G. Waddington, Fengguang Song, Userland CO-PAGER: Boosting Data-Intensive Applications with Non-volatile Memory, accepted in <em>Proceedings of the 3rd International Conference on High Performance Compilation, Computing and Communications</em> (<strong>HP3C‘19</strong>), Xian, China. ACM, 2019.</p></li>
+<li><p><strong>Feng Li</strong>, Daniel G. Waddington, Fengguang Song, Userland CO-PAGER: Boosting Data-Intensive Applications with Non-volatile Memory, accepted in <em>Proceedings of the 3rd International Conference on High Performance Compilation, Computing and Communications</em> (<strong>HP3C’19</strong>), Xian, China. ACM, 2019.</p></li>
 </ul>
 <ul class="simple" id="bib-fu2018lbm">
-<li><p>Yuankun Fu, <strong>Feng Li</strong>, Fengguang Song, Luoding Zhu, Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems, <em>Proceedings of      30th International Symposium on Computer Architecture and High Performance Computing</em> (<strong>SBAC-PAD‘18</strong>), Lyon, France. 2018.
-<a class="reference download internal" download="" href="_downloads/ba05a7cc7e928df554712f74f129038b/fu2018lbm.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/35193842aff9aa519bfcbb41aea67352/fu2018lbm.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<li><p>Yuankun Fu, <strong>Feng Li</strong>, Fengguang Song, Luoding Zhu, Designing a Parallel Memory-Aware Lattice Boltzmann Algorithm on Manycore Systems, <em>Proceedings of      30th International Symposium on Computer Architecture and High Performance Computing</em> (<strong>SBAC-PAD’18</strong>), Lyon, France. 2018.
+<a class="reference download internal" download="" href="_downloads/af9bd884d46d86e5bdaabcfc912e36af/fu2018lbm.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/52966e8a5310725d0dfafb984351fe82/fu2018lbm.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 <li><p><strong>Feng Li</strong>, Fengguang Song, Building a scientific workflow framework to enable real‐time machine learning and visualization, <em>Concurrency and Computation: Practice and Experience</em> (<strong>CCPE</strong>). Wiley, 2018.
-<a class="reference download internal" download="" href="_downloads/8d133cfbaa3e8007912089d9e8de8c7c/li2018ccpe.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/4f0203d03db541cb753d2039bc6e545d/li2018ccpe.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<a class="reference download internal" download="" href="_downloads/a7142650460d742cf5d94da061fe43f3/li2018ccpe.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/956374a018d0a0d5d0de3ea98ac80ab0/li2018ccpe.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 </ul>
 <ul class="simple" id="bib-fu2018zipper">
-<li><p>Yuankun Fu, <strong>Feng Li</strong>, Fengguang Song, “Performance Analysis and Optimization of In-situ Integration of Simulation with Data Analysis: Zipping Applications Up”. <em>Proceedings of the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing</em> (<strong>HPDC‘18</strong>). ACM, 2018.
-<a class="reference download internal" download="" href="_downloads/0e0e434510306962b2449b025aeeaed2/fu2018zipper.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/7ce720655661099e44f90900607506ed/fu2018zipper.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<li><p>Yuankun Fu, <strong>Feng Li</strong>, Fengguang Song, “Performance Analysis and Optimization of In-situ Integration of Simulation with Data Analysis: Zipping Applications Up”. <em>Proceedings of the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing</em> (<strong>HPDC’18</strong>). ACM, 2018.
+<a class="reference download internal" download="" href="_downloads/47622915e15185cc72ad5d35b42a87cf/fu2018zipper.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/a45e56d51bb1ee8f71d636f7982f6cce/fu2018zipper.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 </ul>
 <ul class="simple" id="bib-li2017mlworkflow">
-<li><p><strong>Feng Li</strong>, and Fengguang Song. “A Real-Time Machine Learning and Visualization Framework for Scientific Workflows.” <em>Proceedings of the Practice and Experience in Advanced Research Computing 2017 on Sustainability, Success and Impact</em> (<strong>PEARC‘17</strong>). ACM, 2017. (<strong>Best Student Paper Award</strong>)
-<a class="reference download internal" download="" href="_downloads/33fcfe3689d03f63e8d120d8e5177100/li2017mlworkflow.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/f6167345c7577e4567e5d5dbb64b718f/li2017mlworkflow.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<li><p><strong>Feng Li</strong>, and Fengguang Song. “A Real-Time Machine Learning and Visualization Framework for Scientific Workflows.” <em>Proceedings of the Practice and Experience in Advanced Research Computing 2017 on Sustainability, Success and Impact</em> (<strong>PEARC’17</strong>). ACM, 2017. (<strong>Best Student Paper Award</strong>)
+<a class="reference download internal" download="" href="_downloads/6135ebbc4cee07c03fbbe9170bc8ca21/li2017mlworkflow.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/f15082272c60f08c931e9de01c946705/li2017mlworkflow.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 </ul>
 <ul class="simple" id="bib-bian2016kfista">
-<li><p>Xiao Bian, <strong>Feng Li</strong>, Xia Ning, Kernelized Sparse Self-Representation for Clustering and Recommendation. In <em>SIAM International Conference on Data Mining</em> (<strong>SDM‘16</strong>). SIAM, 2016.
-<a class="reference download internal" download="" href="_downloads/ca451a43c7f8f750e79e8afb341d38f0/bian2016kfista.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/f892b7a4e5bdbb19417ec6c3fd449607/bian2016kfista.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<li><p>Xiao Bian, <strong>Feng Li</strong>, Xia Ning, Kernelized Sparse Self-Representation for Clustering and Recommendation. In <em>SIAM International Conference on Data Mining</em> (<strong>SDM’16</strong>). SIAM, 2016.
+<a class="reference download internal" download="" href="_downloads/b06616e5cc1936a22ebaae2392722d50/bian2016kfista.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/62f116cb029a00b78cdc2bac28924268/bian2016kfista.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 <li><p>Luo, Dan, Jiguang Wan, Yifeng Zhu, Nannan Zhao, <strong>Feng Li</strong>, and Changsheng Xie, Design and Implementation of a Hybrid Shingled Write Disk System. In <em>IEEE Transactions on Parallel and Distributed Systems</em> (<strong>TPDS</strong>), IEEE, 2016.
-<a class="reference download internal" download="" href="_downloads/46807f0614c9a4a3f661fd1cb7a8fc12/luo2016hwsr.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
-<a class="reference download internal" download="" href="_downloads/fede65fbf0d37c4ffbb4663b55b728c5/luo2016hwsr.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
+<a class="reference download internal" download="" href="_downloads/06b093d382e9f4b415313914e255690f/luo2016hwsr.pdf"><code class="xref download docutils literal notranslate"><span class="pre">pdf</span></code></a>,
+<a class="reference download internal" download="" href="_downloads/0ad3d973476d7f61209983d49d2a1020/luo2016hwsr.txt"><code class="xref download docutils literal notranslate"><span class="pre">bibtex</span></code></a></p></li>
 </ul>
 </div>
 <span id="document-misc"></span><div class="section" id="others">
@@ -184,7 +203,7 @@ In my spare time I like playing pingpong or tennis with friends.</p>
       &copy;2018, Feng Li.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.1.2</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 3.2.1</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
     </div>
