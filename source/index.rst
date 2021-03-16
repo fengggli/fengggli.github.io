@@ -15,7 +15,10 @@ I am Feng Li, currently a PhD student Purdue University, Indianapolis (IUPUI cam
 
 You can reach me through   *lifen at iupui dot edu* or  *li2251 at purdue dot edu*.
 
-My lab is located at: IO-270 at IUPUI.
+My lab is located at
+
+   | IO-270, IUPUI,
+   | 420 University Blvd, Indianapolis, IN 46202 .
 
 .. toctree::
   :hidden:
