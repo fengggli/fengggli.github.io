@@ -6,20 +6,25 @@ Research Projects
 Computer Science Department at IUPUI
 -------------------------------------
 
-**Jan 20 ~ Now, cross-environment workflow management** 
+**Jan 2020 ~ Now, cross-environment in-situ workflow management (in progress)** 
 
-* Abstract/optimize in-situ workflows on heterogeneous computing environments.
+* Design, and prototype a framework that can be used to launch in-situ workflows across HPC and Cloud systems.
+* Formalize the scheduling problem for in-situ workflows, design and evaluate heuristic-based algorithms to improve workflow metrics such as throughput and latency.
 
-* Design/test/improve the 'on-demand' HPC/Cloud acceleration feature for `Cyberwater project <https://www.cuahsi.org/projects/cyberwater/>`_ -- a community-driven, multi-institutional earth-science project.
+**Jan 2020 ~ Now, on demand HPC/Cloud access for CyberWater project (in progress)** 
+
+* Design/test/improve the 'on demand' HPC/Cloud acceleration feature for `Cyberwater project <https://www.cuahsi.org/projects/cyberwater/>`_ -- a community-driven, multi-institutional earth-science project.
+* Enhance local development environment with Airavata SciGap based gateway APIs, so that computationally expensive/data-intensive operations are offloaded to XSEDE HPCs and public Clouds.
+* Test, refine, and optimize hydrology simulation models in modern HPC environments.
 
 
 **Jan 2019~ Dec 2019, Architecture-aware Neural Network**
 
-Optimize Neural Networks from the system prospective:
+Optimize Neural Networks from the system perspective:
 
 * Co-locate data in deep/heterogeneous memory hierarchy, so that communication overhead between different components can be minimized.
 * Intelligent scheduling algorithm for computation kernels to enable efficient and large-scale parallelism in modern SIMD and NUMA architectures.
-* `github repo <https://fengggli.github.io/gpu-computing-materials/>`_.
+* `github repo <https://github.com/fengggli/gpu-computing-materials>`_.
 
 **Nov 2017~  Mar 2018, Memory-aware Lattice-Boltzmann Method**
 

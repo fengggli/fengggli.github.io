@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Feng Li'
-copyright = '2018, Feng Li'
+copyright = '2021, Feng Li'
 author = 'Feng Li'
 
 # The short X.Y version
@@ -92,6 +92,10 @@ html_theme_options = {
     "logo":"imgs/self-img-cropped.jpg",
     "logo_name":"Feng Li",
     "link":"#D2691E",
+    "extra_nav_links":{
+        "google scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
+    "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136"
+    }
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
