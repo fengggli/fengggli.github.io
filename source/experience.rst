@@ -10,13 +10,15 @@ Computer Science Department at IUPUI
 
 * Design, and prototype a framework that can be used to launch in-situ workflows across HPC and Cloud systems.
 * Formalize the scheduling problem for in-situ workflows, design and evaluate heuristic-based algorithms to improve workflow metrics such as throughput and latency.
+* A :ref:`paper <bib-li2021xcomposer>` was accepted by PASC'21.
+
 
 **Jan 2020 ~ Now, on demand HPC/Cloud access for CyberWater project (in progress)** 
 
 * Design/test/improve the 'on demand' HPC/Cloud acceleration feature for `Cyberwater project <https://www.cuahsi.org/projects/cyberwater/>`_ -- a community-driven, multi-institutional earth-science project.
 * Enhance local development environment with Airavata SciGap based gateway APIs, so that computationally expensive/data-intensive operations are offloaded to XSEDE HPCs and public Clouds.
 * Test, refine, and optimize hydrology simulation models in modern HPC environments.
-
+* A :ref:`paper <bib-li2021launchagent>` was accepted by e-science'21.
 
 **Jan 2019~ Dec 2019, Architecture-aware Neural Network**
 
