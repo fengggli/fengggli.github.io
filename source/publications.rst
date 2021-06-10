@@ -5,9 +5,11 @@ Publications
 
 
 .. _bib-li2021launchagent:
+
 * **Feng Li**, Ranran Chen, Yuankun Fu, Fengguang Song, Yao Liang, Isuru Ranawaka, Sudhakar Pamidighantam, Daniel Luna and Xu Liang, `Accelerating complex modeling workflows in CyberWater using on-demand HPC/Cloud resources <https://www.escience2021.org/>`_, to appear in Proceedings of The 17th IEEE International Conference on e-Science (eScience 2021), virtual, September 2021.
 
 .. _bib-li2021xcomposer:
+
 * **Feng Li**, Dali Wang, Feng Yan, Fengguang Song, `X-Composer: Enabling Cross-Environments In-Situ Workflows between HPC and Cloud <https://pasc21.pasc-conference.org/program/papers/>`_, to appear in Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '21), virtual, July, 2021.
 
 .. _bib-li2019copager:
