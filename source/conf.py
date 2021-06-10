@@ -89,12 +89,13 @@ html_theme_options = {
     "github_repo": "fengggli.github.io",
     "github_button": False,
     "fixed_sidebar": True,
-    "logo":"imgs/self-img-cropped.jpg",
+    "logo":"imgs/photo_passport.jpg",
     "logo_name":"Feng Li",
     "link":"#D2691E",
     "extra_nav_links":{
-        "google scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
-    "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136"
+        "Google Scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
+        "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136",
+        "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/"
     }
 }
 
