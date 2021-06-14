@@ -89,7 +89,7 @@ html_theme_options = {
     "github_repo": "fengggli.github.io",
     "github_button": False,
     "fixed_sidebar": True,
-    "logo":"imgs/photo_passport.jpg",
+    "logo":"imgs/photo_passport.jpeg",
     "logo_name":"Feng Li",
     "link":"#D2691E",
     "extra_nav_links":{
