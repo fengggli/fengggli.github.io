@@ -45,7 +45,7 @@ In-depth performance evaluation of various high-performance transport methods (A
 Working on s software framework for scientific workflows where RDMA technique is used to couple numerical simulation, data analysis and real-time visualization application together. 
 
 * A distributed and optimized anomaly detection method is used to detect vortex and other special patterns from turbulence flows. 
-* A :ref:`paper <bib-li2017mlworkflow>` was accepted by PEARC'17.
+* A :ref:`paper <bib-li2017mlworkflow>` was accepted by PEARC'17 (**Best Student Paper Award**).
 
 **Aug 2015 ~ Apr 2016, KSSR**
 
