@@ -39,6 +39,7 @@ Prototype and optimize a memory-aware Lattice-Boltzmann Method (LBM, a computati
 In-depth performance evaluation of various high-performance transport methods (ADIOS, flexpath, DataSpaces, Decaf, DIMEs) in multiple HPC systems.
 
 * A :ref:`paper <bib-fu2018zipper>` was accepted by HPDC'18.
+* Artifacts available at: https://github.com/IUPU-HPC/workflow-bench
 
 **Aug 2016 ~ Mar 2017, Machine Learning Workflow in HPC**
 
