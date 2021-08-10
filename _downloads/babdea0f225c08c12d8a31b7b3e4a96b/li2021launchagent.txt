@@ -1,0 +1,10 @@
+@inproceedings{li2021xcomposer,
+ author = {Li, Feng and Chen, Ranran and Fu, Yuankun and Song, Fengguang and Liang, Yao and Ranawaka, Isuru and Pamidighantam, Sudhakar and Luna, Daniel and Liang, Xu},
+ title = {Accelerating complex modeling workflows in {{CyberWater}} using on-demand  {{HPC}}/{{Cloud}} resources}},
+ booktitle ={2021 {{IEEE}} 17th {{International Conference}} on E-{{Science}} (e-{{Science}})},
+ series = {eScience '21},
+ year = {2021},
+ location = {Virtual},
+ publisher = {IEEE},
+ keywords = {scientific workflow, hydrologic modeling, on-demand HPC}
+}
