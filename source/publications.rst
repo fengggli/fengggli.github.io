@@ -12,7 +12,7 @@ Publications
 
 .. _bib-li2021xcomposer:
 
-* **Feng Li**, Dali Wang, Feng Yan, Fengguang Song, `X-Composer: Enabling Cross-Environments In-Situ Workflows between HPC and Cloud <https://pasc21.pasc-conference.org/program/papers/>`_, to appear in Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '21), virtual, July, 2021.
+* **Feng Li**, Dali Wang, Feng Yan, Fengguang Song, `X-Composer: Enabling Cross-Environments In-Situ Workflows between HPC and Cloud <https://doi.org/10.1145/3468267.3470621>`_, in Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '21), virtual, July, 2021.
   :download:`accepted version in pdf </pubs/li2021xcomposer-author-20210810.pdf>`,
   :download:`bibtex </pubs/li2021xcomposer.txt>`
 
