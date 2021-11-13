@@ -57,6 +57,8 @@
 <hr />
 <ul>
     
+    <li class="toctree-l1"><a href="_static/FengLi_CV_2021_Nov.pdf">CV</a></li>
+    
     <li class="toctree-l1"><a href="https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en">Google Scholar</a></li>
     
     <li class="toctree-l1"><a href="https://www.researchgate.net/profile/Feng-Li-136">ResearchGate</a></li>
@@ -153,12 +155,21 @@
 </section>
 <section id="storage-system-group-at-ibm-research-almaden">
 <h3>Storage system group at IBM Research, Almaden<a class="headerlink" href="#storage-system-group-at-ibm-research-almaden" title="Permalink to this headline">¶</a></h3>
-<p><strong>May 2018~ Aug 2018, research internship</strong></p>
-<p>Working on a high-performance key-value store, which uses NVMe SSD as data storage and keeps critical metadata in the persistent memory (pmem).
-By utilizing the advantages of persistent memory, the access to metadata such as block allocation and key-value mappings can be both hardened and fast.</p>
-<p><strong>May 2017~ Aug 2017, research internship</strong></p>
-<p>Working on persistent memory management on NVMe devices. A “collaborative paging” service is designed for extended memory mode. Paging service is lifted to userspace, to avoid expensive context switches and lengthy I/O stacks in legacy kernel designs . DPDK/SPDK tools are used to enable fast access via user space.</p>
+<p><strong>May 2019~ Aug 2019, research internship</strong></p>
 <ul class="simple">
+<li><p>Designed and implemented a unified file system interface (KVFS) for multiple key-value store backends, so that file operations are translated into key-value store put/get operations.</p></li>
+<li><p>Used FUSE to implement KVFS, and designed mechanisms to handle the mappings between file abstractions and data objects.</p></li>
+<li><p>Code base in IBM Comanche: <a class="reference external" href="https://github.com/IBM/comanche/tree/unstable/src/fuse">https://github.com/IBM/comanche/tree/unstable/src/fuse</a>.</p></li>
+</ul>
+<p><strong>May 2018~ Aug 2018, research internship</strong></p>
+<ul class="simple">
+<li><p>Worked on a high-performance key-value store, which uses NVMe SSD as data storage and keeps critical metadata in the persistent memory (pmem).</p></li>
+<li><p>By utilizing the advantages of persistent memory, the access to metadata such as block allocation and key-value mappings can be both hardened and fast.</p></li>
+</ul>
+<p><strong>May 2017~ Aug 2017, research internship</strong></p>
+<ul class="simple">
+<li><p>Designed and implemented an NVMe-backed light-weight memory service — CO-PAGER (Collaborative Paging).</p></li>
+<li><p>CO-PAGER captures virtual memory page faults and performs paging operations on NVMe SSDs using fast userspace I/O.</p></li>
 <li><p>A <a class="reference internal" href="index.html#bib-li2019copager"><span class="std std-ref">paper</span></a>  is accepted in HP3C’19.</p></li>
 </ul>
 </section>
@@ -166,14 +177,15 @@ By utilizing the advantages of persistent memory, the access to metadata such as
 <section id="tools">
 <h2>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h2>
 <p>I use those tools intensively in my research workflow:</p>
-<ol class="arabic simple">
+<ul class="simple">
 <li><p>Programming languages (C/C++/Java/Scala/Python)</p></li>
 <li><p>Performance analysis tools (Intel Vtune, Linux Perf, TAU)</p></li>
+<li><p>Mathematical-modelling tool (CPLEX)</p></li>
 <li><p>Big Data/Deep learning frameworks (Tensorflow/Pytorch/Apache Spark)</p></li>
 <li><p>Storage related: redis, spdk, dpdk, pmdk, fuse, fio</p></li>
 <li><p>Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker, k8s)</p></li>
 <li><p>CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)</p></li>
-</ol>
+</ul>
 </section>
 <span id="document-publications"></span><section id="publications">
 <span id="publication"></span><h2>Publications<a class="headerlink" href="#publications" title="Permalink to this headline">¶</a></h2>
@@ -239,7 +251,7 @@ In my spare time I like playing pingpong or tennis with friends.</p>
       &copy;2021, Feng Li.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.2</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 4.3.0</a>
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
     </div>
