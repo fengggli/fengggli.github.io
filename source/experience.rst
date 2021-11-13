@@ -58,15 +58,22 @@ Working on a kernelized sparse self-representation model(KSSR) and a novel Kerne
 Storage system group at IBM Research, Almaden
 ----------------------------------------------
 
+**May 2019~ Aug 2019, research internship**
+
+* Designed and implemented a unified file system interface (KVFS) for multiple key-value store backends, so that file operations are translated into key-value store put/get operations.
+* Used FUSE to implement KVFS, and designed mechanisms to handle the mappings between file abstractions and data objects.
+* Code base in IBM Comanche: https://github.com/IBM/comanche/tree/unstable/src/fuse. 
+
+
 **May 2018~ Aug 2018, research internship**
 
-Working on a high-performance key-value store, which uses NVMe SSD as data storage and keeps critical metadata in the persistent memory (pmem).
-By utilizing the advantages of persistent memory, the access to metadata such as block allocation and key-value mappings can be both hardened and fast.
+* Worked on a high-performance key-value store, which uses NVMe SSD as data storage and keeps critical metadata in the persistent memory (pmem).
+* By utilizing the advantages of persistent memory, the access to metadata such as block allocation and key-value mappings can be both hardened and fast.
 
 **May 2017~ Aug 2017, research internship**
 
-Working on persistent memory management on NVMe devices. A "collaborative paging" service is designed for extended memory mode. Paging service is lifted to userspace, to avoid expensive context switches and lengthy I/O stacks in legacy kernel designs . DPDK/SPDK tools are used to enable fast access via user space.
-
+* Designed and implemented an NVMe-backed light-weight memory service — CO-PAGER (Collaborative Paging).
+* CO-PAGER captures virtual memory page faults and performs paging operations on NVMe SSDs using fast userspace I/O.
 * A :ref:`paper <bib-li2019copager>`  is accepted in HP3C'19.
 
 ..
@@ -92,9 +99,10 @@ Tools
 
 I use those tools intensively in my research workflow:
 
-1. Programming languages (C/C++/Java/Scala/Python)
-2. Performance analysis tools (Intel Vtune, Linux Perf, TAU)
-3. Big Data/Deep learning frameworks (Tensorflow/Pytorch/Apache Spark) 
-4. Storage related: redis, spdk, dpdk, pmdk, fuse, fio
-5. Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker, k8s)
-6. CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)
+* Programming languages (C/C++/Java/Scala/Python)
+* Performance analysis tools (Intel Vtune, Linux Perf, TAU)
+* Mathematical-modelling tool (CPLEX)
+* Big Data/Deep learning frameworks (Tensorflow/Pytorch/Apache Spark) 
+* Storage related: redis, spdk, dpdk, pmdk, fuse, fio
+* Cloud/container solutions(Google Cloud Platform, Amazon AWS, Openstack, Docker, k8s)
+* CI/Build tools(cmake, Apache Maven, travis CI, Google Gtest)

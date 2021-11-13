@@ -93,6 +93,7 @@ html_theme_options = {
     "logo_name":"Feng Li",
     "link":"#D2691E",
     "extra_nav_links":{
+        "CV": "_static/FengLi_CV_2021_Nov.pdf",
         "Google Scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
         "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136",
         "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/"
@@ -115,7 +116,7 @@ html_static_path = ['_static']
 html_sidebars = {
     "**": [
         "about.html",
-	"navigation.html",
+	    "navigation.html",
         "relations.html",
         "searchbox.html",
     ]
