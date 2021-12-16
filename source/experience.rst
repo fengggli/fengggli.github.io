@@ -3,8 +3,8 @@
 Research Projects
 =================
 
-Computer Science Department at IUPUI
--------------------------------------
+Computer Science Department at Purdue University
+-------------------------------------------------
 
 **Jan 2020 ~ Now, cross-environment in-situ workflow management (in progress)** 
 
@@ -94,7 +94,7 @@ Storage system group at IBM Research, Almaden
   * read papers and wrote reviews about how MRAM( or other NVRAM) can be used in different methods to enhance system performance and or reduce energy consumption.
   * reviewed related patents searched from USPTO, analyzed recent technology (eg.Page Placement in hybrid PRAM and DRAM Main Memory), then made my suggestion for the project. 
 
-Tools
+Skills
 =================
 
 I use those tools intensively in my research workflow:

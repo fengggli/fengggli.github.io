@@ -9,16 +9,11 @@ Feng Li
 
 .. class::center
 
-I am Feng Li, currently a PhD student at Purdue University, Indianapolis (IUPUI campus). I work with my advisor `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing.
+I am Feng Li, currently a PhD candidate at Purdue University. I work with my advisor `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing.
 
 **Contact Me**
 
-You can reach me through   *lifen at iupui dot edu* or  *li2251 at purdue dot edu*.
-
-My lab is located at
-
-   | IO-270, IUPUI,
-   | 420 University Blvd, Indianapolis, IN 46202 .
+You can reach me through *li2251 at purdue dot edu*.
 
 .. toctree::
   :hidden:

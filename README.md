@@ -14,6 +14,5 @@
 
 ## TODO
 * Links to :
-	1. [Linkedin](https://www.linkedin.com/in/feng-li-30aa7911b/) 
-	2. [researchgate](https://www.researchgate.net/profile/Feng_Li175)
-	3. [notes](https://fengggli.github.io/ResearchDocs/)
+	1. [notes](https://fengggli.github.io/ResearchDocs/)
+	2. Add figures to experiences. 
