@@ -9,7 +9,7 @@ Feng Li
 
 .. class::center
 
-I am Feng Li, currently a PhD candidate at Purdue University. I work with my advisor `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing.
+Feng Li is currently a PhD candidate at Purdue University. He works with `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing.
 
 **Contact Me**
 
