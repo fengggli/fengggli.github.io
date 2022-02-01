@@ -1,6 +1,9 @@
 # My personal page
 
 ## Changelog
+[2022-02-01]:
+* change the tone used in bio.
+* fix the html\_title
 [2018-12-11]:
 * switch from jekyll to sphinx
 * reorganize source files

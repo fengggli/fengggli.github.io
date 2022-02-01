@@ -22,6 +22,7 @@
 project = 'Feng Li'
 copyright = '2021, Feng Li'
 author = 'Feng Li'
+# html_title='Feng Li\'s personal website'
 
 # The short X.Y version
 version = ''
@@ -84,7 +85,7 @@ html_theme = 'alabaster'
 #
 # html_theme_options = {}
 html_theme_options = {
-    "description": "a personal page",
+    "description": "Welcome to my personal page!",
     "github_user": "fengggli",
     "github_repo": "fengggli.github.io",
     "github_button": False,
