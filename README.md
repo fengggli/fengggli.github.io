@@ -1,6 +1,10 @@
 # My personal page
 
 ## Changelog
+[2022-05-24]:
+* update CV.
+* add images and update texts and links in research experience.
+
 [2022-02-01]:
 * change the tone used in bio.
 * fix the html\_title

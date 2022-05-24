@@ -8,12 +8,26 @@ Computer Science Department at Purdue University
 
 **Jan 2020 ~ Now, cross-environment in-situ workflow management (in progress)** 
 
+.. image:: /images/xcomposer-highlevel.jpeg
+  :scale: 80%
+
+.. image:: /images/xcomposer-wind.png
+  :scale: 40%
+  :align: right
+
 * Design, and prototype a framework that can be used to launch in-situ workflows across HPC and Cloud systems.
 * Formalize the scheduling problem for in-situ workflows, design and evaluate heuristic-based algorithms to improve workflow metrics such as throughput and latency.
 * A :ref:`paper <bib-li2021xcomposer>` was accepted by PASC'21.
 
 
 **Jan 2020 ~ Now, on demand HPC/Cloud access for CyberWater project (in progress)** 
+
+.. image:: /images/cyberwater-launchagent.jpeg
+  :scale: 100%
+
+.. image:: /images/launchagent-workflow.png
+  :scale: 50%
+  :align: right
 
 * Design/test/improve the 'on demand' HPC/Cloud acceleration feature for `Cyberwater project <https://www.cuahsi.org/projects/cyberwater/>`_ -- a community-driven, multi-institutional earth-science project.
 * Enhance local development environment with Airavata SciGap based gateway APIs, so that computationally expensive/data-intensive operations are offloaded to XSEDE HPCs and public Clouds.
@@ -32,11 +46,20 @@ Optimize Neural Networks from the system perspective:
 
 Prototype and optimize a memory-aware Lattice-Boltzmann Method (LBM, a computational fluid dynamics approach to simulating complex fluid flows), which can enhance data reuse across multiple time steps.
 
+.. image:: /images/lbm-sequential.jpeg
+  :scale: 25%
+
 * A :ref:`paper <bib-fu2018lbm>` was accepted by SBAC-PAD'18.
 
 **April 2017~ Nov 2017, Performance Analysis of In-situ Methods in HPC**
 
 In-depth performance evaluation of various high-performance transport methods (ADIOS, flexpath, DataSpaces, Decaf, DIMEs) in multiple HPC systems.
+
+.. image:: /images/hpdc_perf_comp.png
+  :scale: 50%
+
+.. image:: /images/hpdc_dimes_traces.png
+  :scale: 70%
 
 * A :ref:`paper <bib-fu2018zipper>` was accepted by HPDC'18.
 * Artifacts available at: https://github.com/IUPU-HPC/workflow-bench
