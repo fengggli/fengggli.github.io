@@ -94,7 +94,7 @@ html_theme_options = {
     "logo_name":"Feng Li",
     "link":"#D2691E",
     "extra_nav_links":{
-        "CV": "_static/FengLi_CV_2022_May.pdf",
+        "CV": "_static/FengLi_CV_2022_July.pdf",
         "Google Scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
         "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136",
         "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/"
