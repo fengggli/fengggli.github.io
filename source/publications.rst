@@ -3,16 +3,19 @@
 Publications
 ============
 
+.. _bib-chen2022cyberwater:
 
+* Ranran Chen, **Feng Li**, Drew Bieger, Fengguang Song, Yao Liang, Daniel Luna, Ryan Young, Xu Liang, and Sudhakar Pamidighantam. 2022. `CyberWater: An Open Framework for Data and Model Integration in Water Science and Engineering <https://doi.org/10.1145/3511808.3557186>`_, in Proceedings of the 31st ACM International Conference on Information & Knowledge Management` (**CIKM '22**), Atlanta, Georgia, USA.
+  :download:`bibtex </pubs/chen2022cyberwater.txt>`
 .. _bib-li2021launchagent:
 
-* **Feng Li**, Ranran Chen, Yuankun Fu, Fengguang Song, Yao Liang, Isuru Ranawaka, Sudhakar Pamidighantam, Daniel Luna and Xu Liang, `Accelerating complex modeling workflows in CyberWater using on-demand HPC/Cloud resources <https://doi.org/10.1109/eScience51609.2021.00030>`_, to appear in Proceedings of The 17th IEEE International Conference on e-Science (eScience 2021), virtual, September 2021.
+* **Feng Li**, Ranran Chen, Yuankun Fu, Fengguang Song, Yao Liang, Isuru Ranawaka, Sudhakar Pamidighantam, Daniel Luna and Xu Liang, `Accelerating complex modeling workflows in CyberWater using on-demand HPC/Cloud resources <https://doi.org/10.1109/eScience51609.2021.00030>`_, to appear in Proceedings of The 17th IEEE International Conference on e-Science (**eScience 2021**), virtual, September 2021.
   :download:`accepted version in pdf </pubs/li2021launchagent-author-20210810.pdf>`,
   :download:`bibtex </pubs/li2021launchagent.txt>`
 
 .. _bib-li2021xcomposer:
 
-* **Feng Li**, Dali Wang, Feng Yan, Fengguang Song, `X-Composer: Enabling Cross-Environments In-Situ Workflows between HPC and Cloud <https://doi.org/10.1145/3468267.3470621>`_, in Proceedings of the Platform for Advanced Scientific Computing Conference (PASC '21), virtual, July, 2021.
+* **Feng Li**, Dali Wang, Feng Yan, Fengguang Song, `X-Composer: Enabling Cross-Environments In-Situ Workflows between HPC and Cloud <https://doi.org/10.1145/3468267.3470621>`_, in Proceedings of the Platform for Advanced Scientific Computing Conference (**PASC'21**), virtual, July, 2021.
   :download:`accepted version in pdf </pubs/li2021xcomposer-author-20210810.pdf>`,
   :download:`bibtex </pubs/li2021xcomposer.txt>`
 
@@ -27,7 +30,7 @@ Publications
   :download:`pdf </pubs/fu2018lbm.pdf>`,
   :download:`bibtex </pubs/fu2018lbm.txt>`
 
-* **Feng Li**, Fengguang Song, `Building a scientific workflow framework to enable real‐time machine learning and visualization <https://doi.org/10.1002/cpe.4703>`_, Concurrency and Computation: Practice and Experience 31.16 (2019): e4703..
+* **Feng Li**, Fengguang Song, `Building a scientific workflow framework to enable real‐time machine learning and visualization <https://doi.org/10.1002/cpe.4703>`_, Concurrency and Computation: Practice and Experience 31.16 (**CCPE**, 2019): e4703..
   :download:`pdf </pubs/li2018ccpe.pdf>`,
   :download:`bibtex </pubs/li2018ccpe.txt>`
 

@@ -11,6 +11,10 @@ Feng Li
 
 Feng Li is currently a PhD candidate at Purdue University. He works with `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ in areas of Distributed Systems and High Performance Computing.
 
+**Updates**
+
+- [2023-03-06] Feng started a new position at Eli Lilly.
+
 **Contact Me**
 
 You can reach me through *li2251 at purdue dot edu*.
