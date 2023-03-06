@@ -1,0 +1,16 @@
+@inproceedings{chen2022cyberwater,
+author = {Chen, Ranran and Li, Feng and Bieger, Drew and Song, Fengguang and Liang, Yao and Luna, Daniel and Young, Ryan and Liang, Xu and Pamidighantam, Sudhakar},
+title = {CyberWater: An Open Framework for Data and Model Integration in Water Science and Engineering},
+year = {2022},
+isbn = {9781450392365},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3511808.3557186},
+doi = {10.1145/3511808.3557186},
+booktitle = {Proceedings of the 31st ACM International Conference on Information & Knowledge Management},
+pages = {4833–4837},
+numpages = {5},
+keywords = {model coupling without coding, open data and model framework, scientific workflow, hpc access on demand},
+location = {Atlanta, GA, USA},
+series = {CIKM '22}
+}
