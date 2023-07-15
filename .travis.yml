@@ -8,7 +8,7 @@ python:
 
 sudo: false
 
-install: "pip -U install pip; pip install sphinx sphinx_rtd_theme sphinxcontrib-bibtex"
+install: "pip install -U pip; pip install -U sphinx sphinx_rtd_theme sphinxcontrib-bibtex"
 script: make singlehtml 
 
 before_deploy: touch build/singlehtml/.nojekyll
