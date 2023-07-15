@@ -3,7 +3,7 @@
 Education
 ====================
 
-* [2015-2023(expected)] *Purdue University, Indianapolis, IN*
+* [2015-2023(expected)] *Purdue University, IN*
 
   PhD candidate, Computer Science.
 * [2011~2015] *Huazhong University of Science & Technology, Wuhan, China*

@@ -13,6 +13,12 @@ Feng Li is currently a PhD candidate at Purdue University. He works with `Dr. Fe
 
 **Updates**
 
+- [2023-07-15] Feng successfully defended his dissertation work "Efficient in-situ workflows for time-critical applications on heterogeneous ecosystems".
+
+- [2023-07-07] "Efficient In-situ Workflow Planning for Geographically Distributed Heterogeneous Environments" is accepted as a journal paper in  *Future Generation Computer Systems*, Elsevier.
+
+- [2023-04-29] "INSTANT: a runtime framework to orchestrate in-situ workflows" is accepted in the Proceedings of *the 27th International European Conference on Parallel and Distributed Computing* (EuroPar’23).
+
 - [2023-03-06] Feng started a new position at Eli Lilly.
 
 **Contact Me**

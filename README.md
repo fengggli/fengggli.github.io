@@ -1,6 +1,10 @@
 # My personal page
 
 ## Changelog
+[2023-07-15]:
+* Added updates for PhD defense and two recent papers.
+* TODO: add codespaces support so I can edit/compile in browser instead...
+
 [2023-03-05]:
 * updated work experience.
 

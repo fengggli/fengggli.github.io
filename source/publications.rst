@@ -3,10 +3,17 @@
 Publications
 ============
 
+
+
+* **Feng Li**, and Fengguang Song. 2023. INSTANT: A Runtime Framework to Orchestrate In-Situ Workflows. To appear in Proceedings of *the 27th International European Conference on Parallel and Distributed Computing* (EuroPar’23), Springer.
+
+* **Feng Li**, and Fengguang Song. 2023. Efficient In-situ Workflow Planning for Geographically Distributed Heterogeneous Environments. To appear in *Future Generation Computer Systems*, Elsevier.
+
 .. _bib-chen2022cyberwater:
 
-* Ranran Chen, **Feng Li**, Drew Bieger, Fengguang Song, Yao Liang, Daniel Luna, Ryan Young, Xu Liang, and Sudhakar Pamidighantam. 2022. `CyberWater: An Open Framework for Data and Model Integration in Water Science and Engineering <https://doi.org/10.1145/3511808.3557186>`_, in Proceedings of the 31st ACM International Conference on Information & Knowledge Management` (**CIKM '22**), Atlanta, Georgia, USA.
+* Ranran Chen, **Feng Li**, Drew Bieger, Fengguang Song, Yao Liang, Daniel Luna, Ryan Young, Xu Liang, and Sudhakar Pamidighantam. 2022. `CyberWater: An Open Framework for Data and Model Integration in Water Science and Engineering <https://doi.org/10.1145/3511808.3557186>`_, in Proceedings of *the 31st ACM International Conference on Information & Knowledge Management*` (**CIKM '22**), Atlanta, Georgia, USA.
   :download:`bibtex </pubs/chen2022cyberwater.txt>`
+
 .. _bib-li2021launchagent:
 
 * **Feng Li**, Ranran Chen, Yuankun Fu, Fengguang Song, Yao Liang, Isuru Ranawaka, Sudhakar Pamidighantam, Daniel Luna and Xu Liang, `Accelerating complex modeling workflows in CyberWater using on-demand HPC/Cloud resources <https://doi.org/10.1109/eScience51609.2021.00030>`_, to appear in Proceedings of The 17th IEEE International Conference on e-Science (**eScience 2021**), virtual, September 2021.
