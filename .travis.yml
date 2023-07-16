@@ -2,9 +2,11 @@
 # https://gist.github.com/brenns10/f48e1021e8befd2221a2
 # https://docs.travis-ci.com/user/deployment/pages/#further-configuration
 
+dist: jammy
+
 language: python
 python:
-    - "3.8"
+    - "3.10"
 
 sudo: false
 
