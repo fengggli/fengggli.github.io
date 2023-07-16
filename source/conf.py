@@ -90,11 +90,11 @@ html_theme_options = {
     "github_repo": "fengggli.github.io",
     "github_button": False,
     "fixed_sidebar": True,
-    "logo":"imgs/photo_passport.jpeg",
+    "logo":"imgs/passport_photo_20221202_cropped.jpg",
     "logo_name":"Feng Li",
     "link":"#D2691E",
     "extra_nav_links":{
-        "CV": "_static/FengLi_CV_2022_July.pdf",
+        "CV": "_static/FengLi_CV_20230716.pdf",
         "Google Scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
         "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136",
         "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/"
