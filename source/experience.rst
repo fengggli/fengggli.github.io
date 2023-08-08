@@ -6,7 +6,7 @@ Research Projects
 Computer Science Department at Purdue University
 -------------------------------------------------
 
-**Jan 2020 ~ Now, cross-environment in-situ workflow management (in progress)** 
+**Jan 2020 ~ March 2023, cross-environment in-situ workflow management**
 
 .. image:: /images/xcomposer-highlevel.jpeg
   :scale: 80%
@@ -18,9 +18,11 @@ Computer Science Department at Purdue University
 * Design, and prototype a framework that can be used to launch in-situ workflows across HPC and Cloud systems.
 * Formalize the scheduling problem for in-situ workflows, design and evaluate heuristic-based algorithms to improve workflow metrics such as throughput and latency.
 * A :ref:`paper <bib-li2021xcomposer>` was accepted by PASC'21.
+* A :ref:`paper <bib-li2023planning>` about resource planning for in-situ workflow resource planning.
+* A :ref:`paper <bib-li2023instant>` about generic runtime support for in-situ workflows across sites.
 
 
-**Jan 2020 ~ Now, on demand HPC/Cloud access for CyberWater project (in progress)** 
+**Jan 2020 ~ Aug 2022, on demand HPC/Cloud access for CyberWater project**
 
 .. image:: /images/cyberwater-launchagent.jpeg
   :scale: 100%

@@ -3,11 +3,14 @@
 Publications
 ============
 
-
+.. _bib-li2023instant:
 
 * **Feng Li**, and Fengguang Song. 2023. INSTANT: A Runtime Framework to Orchestrate In-Situ Workflows. To appear in Proceedings of *the 27th International European Conference on Parallel and Distributed Computing* (EuroPar’23), Springer.
 
-* **Feng Li**, and Fengguang Song. 2023. Efficient In-situ Workflow Planning for Geographically Distributed Heterogeneous Environments. To appear in *Future Generation Computer Systems*, Elsevier.
+.. _bib-li2023planning:
+
+* **Feng Li**, and Fengguang Song. 2023. `Efficient in-situ workflow planning for geographically distributed heterogeneous environments <https://doi.org/10.1016/j.future.2023.07.010>`_. Future Generation Computer Systems 149, (December 2023), 105–121, Elsevier.
+
 
 .. _bib-chen2022cyberwater:
 
