@@ -97,7 +97,9 @@ html_theme_options = {
         "CV": "_static/FengLi_CV_20230716.pdf",
         "Google Scholar": "https://scholar.google.com/citations?user=KZ7f694AAAAJ&hl=en",
         "ResearchGate": "https://www.researchgate.net/profile/Feng-Li-136",
-        "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/"
+        "LinkedIn": "https://www.linkedin.com/in/feng-li-30aa7911b/",
+        "Blogs": "https://fengggli.github.io/blogs/",
+        "ResearchDocs (Archive)": "https://fengggli.github.io/ResearchDocs/"
     },
     'page_width': 'auto'
 }

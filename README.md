@@ -1,9 +1,12 @@
 # My personal page
 
 ## Changelog
+[2023-11-07]:
+* add links to blogs and researchdocs in side panel
 [2023-07-15]:
 * Added updates for PhD defense and two recent papers.
 * TODO: add codespaces support so I can edit/compile in browser instead...
+* TODO: shall learn reactapps...https://github.com/gitname/react-gh-pages
 
 [2023-03-05]:
 * updated work experience.
@@ -26,8 +29,3 @@
 * add fluid paper, add ccpe paper
 * contact: email
 * add paper links in projects pager
-
-## TODO
-* Links to :
-	1. [notes](https://fengggli.github.io/ResearchDocs/)
-	2. Add figures to experiences. 
