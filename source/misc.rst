@@ -12,6 +12,7 @@ Interesting topics
 --------------------
 
 * OpenAPI generator: https://github.com/OpenAPITools/openapi-generator, mentioned in `https://www.oreilly.com/radar/radar-trends-to-watch-november-2022/`
+* Rethinking observability: https://thenewstack.io/rethinking-observability/
 
 
 My spare time
