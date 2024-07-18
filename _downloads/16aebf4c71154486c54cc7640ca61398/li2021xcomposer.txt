@@ -1,0 +1,12 @@
+@inproceedings{li2021xcomposer,
+ author = {Li, Feng and Wang, Dali and Yan, Feng and Song, Fengguang},
+ title = {{{X-Composer}}: Enabling Cross-Environments In-Situ Workflows between {{HPC}} and {{Cloud}}},
+ booktitle = {Proceedings of the Platform for Advanced Scientific Computing Conference},
+ series = {PASC '21},
+ year = {2021},
+ location = {Geneva, Switzerland},
+ doi = {10.1145/3468267.3470621},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {HPC, cloud computing, in-situ data analysis, scientific workflows},
+}
