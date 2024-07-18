@@ -3,12 +3,25 @@
 Others
 ====================
 
-* My spare time
+Useful links
+--------------
+
+* Oreilly Radar: `https://www.oreilly.com/radar/`
+
+Interesting topics
+--------------------
+
+* OpenAPI generator: https://github.com/OpenAPITools/openapi-generator, mentioned in `https://www.oreilly.com/radar/radar-trends-to-watch-november-2022/`
+
+
+My spare time
+------------------
 
 I like hiking, jogging. I have travelled to many great places in China, and I am planning to visit more places in the US!
 In my spare time I like playing pingpong or tennis with friends.
 
-* TODO
+TODO
+-------
 
 I should probably do some tech blogs..
 

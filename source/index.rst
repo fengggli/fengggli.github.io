@@ -9,7 +9,7 @@ Feng Li
 
 .. class::center
 
-Feng Li earned his PhD degree in Computer Science from Purdue University under the direction of  `Dr. Fengguang Song <https://cs.iupui.edu/~fgsong/>`_ . His research interests are in areas of Distributed Systems, High Performance Computing, and scientific workflows.
+Feng Li earned his PhD degree in Computer Science from Purdue University under the direction of  `Dr. Fengguang Song <https://homes.luddy.indiana.edu/fgsong//>`_ . His research interests are in areas of Distributed Systems, High Performance Computing, and scientific workflows.
 
 **Updates**
 
