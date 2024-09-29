@@ -1,0 +1,10 @@
+@article{luo2016luo2016hwsr,
+  title={Design and implementation of a hybrid shingled write disk system},
+  author={Luo, Dan and Wan, Jiguang and Zhu, Yifeng and Zhao, Nannan and Li, Feng and Xie, Changsheng},
+  journal={IEEE Transactions on Parallel and Distributed Systems},
+  volume={27},
+  number={4},
+  pages={1017--1029},
+  year={2016},
+  publisher={IEEE}
+}
