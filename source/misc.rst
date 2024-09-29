@@ -10,7 +10,7 @@ Useful links
 
 Interesting topics
 --------------------
-
+* Platform Engineering: The Next Step in Operations: `https://www.oreilly.com/radar/platform-engineering-the-next-step-in-operations/`
 * OpenAPI generator: https://github.com/OpenAPITools/openapi-generator, mentioned in `https://www.oreilly.com/radar/radar-trends-to-watch-november-2022/`
 * Rethinking observability: https://thenewstack.io/rethinking-observability/
 

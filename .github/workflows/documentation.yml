@@ -7,13 +7,13 @@ permissions:
 
 jobs:
   docs:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
       - name: Install dependencies
         run: |
-          pip install sphinx sphinx_rtd_theme myst_parser
+          pip install -r requirements.txt
       - name: Sphinx build
         run: |
           make singlehtml
